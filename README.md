@@ -12,7 +12,7 @@ This project automates the **ETL (Extract, Transform, Load)** process using **Py
 ## Project Structure
 - **`extract_transform.py`**: Extracts raw data and applies cleaning and transformation using PySpark.
 - **`load.py`**: Loads the transformed data into MongoDB.
-- **`Directed_Acyclic_Graph.py`**: Defines Airflow DAG for scheduling ETL execution.
+- **`directed_acyclic_graph.py`**: Defines Airflow DAG for scheduling ETL execution.
 - **`data_cleaned_gx.csv`**: Processed and cleaned data.
 - **`data_raw.csv`**: Raw dataset before processing.
 
