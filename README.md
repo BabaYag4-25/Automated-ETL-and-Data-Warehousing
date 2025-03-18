@@ -47,6 +47,6 @@ This project automates the **ETL (Extract, Transform, Load)** process using **Py
 - Centralized data storage in **MongoDB** for easy querying and analysis.
 
 ## Author
-Developed by Ahmad Ghifari as part of a data engineering milestone project using Apache Airflow and PySpark.
+Developed by Ahmad Ghifari as a data engineering milestone project using Apache Airflow and PySpark.
 
 
